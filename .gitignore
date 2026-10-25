@@ -1,0 +1,10 @@
+# Binaries and build artifacts
+Toggle Sleep
+Toggle Sleep.app/
+*.zip
+*.o
+
+# OS files
+.DS_Store
+Sleep Toggle
+Sleep Toggle.app/
